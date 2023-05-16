@@ -1,19 +1,12 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
+title: '刘光贞：一个好妈妈，一个好妻子'
 date: '2020-01-02'
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+我想起了一个笑话，说的是一个丈夫在妻子面前夸赞自己有多么感激她，说：“亲爱的，谢谢你让我成为了这个家庭的领袖！”妻子一脸茫然地回应：“领袖？我以为你是个跟屁虫呢。”
 
-You can use Static Generation for many types of pages, including:
+不过话说回来，丈夫对于妻子的感谢，其实是一种很重要的情感表达方式。在婚姻中，我们常常会忽略对方的付出，把他们当成理所当然的存在。但是，只要我们能够时刻记得感恩，就能让彼此的关系更加和谐。
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation
+当然，这种感恩不仅仅是口头上的，更应该是实际行动上的。比如，丈夫可以在家里多做一些家务，多陪伴妻子和孩子，让她们感受到自己的存在和重要性。而妻子也可以在工作生活中多关心丈夫，给他一些心理上的支持和鼓励。
 
-You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
-
-On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
-
-In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data.
+总之，婚姻中的感恩和爱是相辅相成的，只有我们能够真正地体会到对方的付出和重要性，才能够让彼此的生活更加美好。

@@ -1,11 +1,16 @@
 ---
-title: 'Two Forms of Pre-rendering'
-date: '2020-01-01'
+title: '情人节快乐'
+date: '2023-05-20'
 ---
 
-Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
+亲爱的妻子，
 
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
+今天是情人节，我想对你说，我爱你。虽然这句话已经被我说了无数遍，但我还是要再说一遍，我爱你。你是我生命中最重要的人，没有你，我的生活就像没有阳光的夜晚。
 
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+我想给你写一封信，表达我对你的爱意。不过在写之前，我想问一下，你是不是已经睡着了？如果是的话，那我就可以在信里说些坏话了，因为你听不到。哈哈哈哈哈！
+
+我想对你说的是，我很感激你一直以来对我的支持和鼓励。你总是在我需要你的时候出现在我的身边，给我力量和勇气。我知道有时候我会让你失望，但是请相信我，我会努力做得更好。
+
+最后，我想告诉你一个小秘密。其实我在情人节这天送你礼物并不是因为我想表达我的爱意，而是因为我怕你生气。所以，如果你发现礼物不够好或者不够贵重，请别生气哦，因为我的爱意是无价的。
+
+爱你的丈夫
